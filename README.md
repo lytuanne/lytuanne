@@ -10,15 +10,15 @@ Construí uma carreira anterior de cerca de 10 anos na área comercial como repr
 * 🎓 **Formação Acadêmica:** 
   * Bacharel em Direito
   * Graduada em Análise e Desenvolvimento de Sistemas (ADS)
-* 📊 **Especialização:** Em formação contínua em Análise de Dados (Aponti Academy) e AWS Cloud (Escola da Nuvem).
+* 📊 **Especialização:** Em formação contínua em Análise de Dados (Aponti Academy) e Cloud Computing/ AWS (Escola da Nuvem).
 * 🌎 **Idiomas:** Inglês fluente (vivência e intercâmbio cultural nos Estados Unidos).
 
 ---
 
 ### 🛠️ Competências Técnicas
-* **Análise & Banco de Dados:** SQL (SQLite, DuckDB), Python para Dados, Análise Exploratória (EDA), Modelagem Relacional.
-* **Ferramentas & Ambientes:** Git, GitHub, VS Code, Tratamento e Transformação de Dados.
-* **Metodologias:** Organização de pipelines analíticos com GitHub Projects e Kanban.
+* **Análise & Banco de Dados:** Excel, SQL, Python, Power BI, Tratamento e Transformação de Dados.
+* **Cloud & Infraestrutura:** AWS (Amazon EC2, S3, IAM, VPC)
+* **Ferramentas & Ambientes:** Git, GitHub, VS Code, Tratamento e Transformação de Dados, Linux.
 
 ---
 
