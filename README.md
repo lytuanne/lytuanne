@@ -10,8 +10,7 @@ Construí uma carreira anterior de cerca de 10 anos na área comercial como repr
 * 🎓 **Formação Acadêmica:** 
   * Bacharel em Direito
   * Graduada em Análise e Desenvolvimento de Sistemas (ADS)
-* 📊 **Especialização:** Em formação contínua em Análise de Dados.
-* 🏅 **Capacitação:** Aprovada no processo seletivo **FAP/2026** (Aponti em parceria com o Ministério da Ciência e Tecnologia).
+* 📊 **Especialização:** Em formação contínua em Análise de Dados (Aponti Academy) e AWS Cloud (Escola da Nuvem).
 * 🌎 **Idiomas:** Inglês fluente (vivência e intercâmbio cultural nos Estados Unidos).
 
 ---
