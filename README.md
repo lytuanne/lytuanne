@@ -1,6 +1,6 @@
 # Olá, me chamo Lytuanne! 👋
 
-Bacharel em **Direito** e graduada em **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente me especializando em **Análise de Dados** na Aponti Academy e **AWS Cloud** na Escola da Nuvem**.
+Bacharel em **Direito** e graduada em **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente me especializando em **Análise de Dados** na Aponti Academy e **AWS Cloud** na Escola da Nuvem.
 
 Construí uma carreira anterior de cerca de 10 anos na área comercial como representante de produtos hospitalares, com foco em negociação, vendas e relacionamento com clientes. Decidi migrar para a área de tecnologia, onde hoje aplico minha dedicação aos estudos de desenvolvimento e banco de dados.
 
